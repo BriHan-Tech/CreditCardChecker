@@ -69,6 +69,7 @@ weighted avg       1.00      1.00      1.00     56962
 | data/: Directory containing the dataset used for training and testing.
 | README.md: This documentation file.
 | LICENSE: The license for this repo
+| Pipfile: Pipfile for environment
 | requirements.txt: The required dependencies required to run this repo.
 ```
 
